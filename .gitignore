@@ -1,0 +1,17 @@
+*.class
+*.war
+dir.txt
+git_rev.txt
+.settings/
+.project
+.classpath
+*.patch
+*.log
+target/
+node_modules/
+package-lock.json
+/*/bin/
+*/dist/
+*.iml
+.idea
+.DS_Store
